@@ -4,6 +4,6 @@ body {
   text-color: black;
 }
 
-h2.date {
+h2#date {
   font-size: 3em;
 }
