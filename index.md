@@ -1,37 +1,25 @@
-## Welcome to GitHub Pages
+## The Mexican Yucatan
 
-You can use the [editor on GitHub](https://github.com/joshuam/newsite/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+You have been enrolled in a Saturday Seminar Cooking Class at Chef to Go
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### January 23, 2021
+9AM
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
+### Menu
 
-# Header 1
-## Header 2
-### Header 3
+- Empanadas
+- Quesadilla
+- Grilled Picadillo Relenos with Salsa Fresca
+- Yucaten Glazed Duck with Mole Sauce Achiote Rice
+- Tres Leches Cake
 
-- Bulleted
-- List
+### Description
 
-1. Numbered
-2. List
+Learn how to prepare the menu, starting with pre-preparation Saturday morning, lunch at 12:00 pm, continue with prep until 3:00 pm or so and then home for a rest. You then return in the evening with your guest at 7:30 pm, who you will wow with your culinary delights. Enjoy an evening of food and wine, which you helped prepare, in the ambience of the Douglas Room at Chef To Go!!!
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/joshuam/newsite/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
